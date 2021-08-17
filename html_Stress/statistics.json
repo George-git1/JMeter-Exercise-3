@@ -1,0 +1,34 @@
+{
+  "BlazeDemo Request" : {
+    "transaction" : "BlazeDemo Request",
+    "sampleCount" : 55789,
+    "errorCount" : 2,
+    "errorPct" : 0.003584936,
+    "meanResTime" : 485.1678467081289,
+    "medianResTime" : 297.0,
+    "minResTime" : 219.0,
+    "maxResTime" : 42151.0,
+    "pct1ResTime" : 884.0,
+    "pct2ResTime" : 1975.0,
+    "pct3ResTime" : 6182.0,
+    "throughput" : 93.38024467769931,
+    "receivedKBytesPerSec" : 521.1481302249058,
+    "sentKBytesPerSec" : 11.490147294326283
+  },
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 55789,
+    "errorCount" : 2,
+    "errorPct" : 0.003584936,
+    "meanResTime" : 485.1678467081289,
+    "medianResTime" : 297.0,
+    "minResTime" : 219.0,
+    "maxResTime" : 42151.0,
+    "pct1ResTime" : 884.0,
+    "pct2ResTime" : 1975.0,
+    "pct3ResTime" : 6182.0,
+    "throughput" : 93.38024467769931,
+    "receivedKBytesPerSec" : 521.1481302249058,
+    "sentKBytesPerSec" : 11.490147294326283
+  }
+}
